@@ -1,0 +1,33 @@
+{
+  "development": {
+    "username": "root",
+    "password": null,
+    "database": "rest_users",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "port": "3307",
+      "timestamps": false
+  },
+  "operatorsAliases": false
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "rest_users",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "port": "3307",
+      "timestamps": false
+  },
+  "operatorsAliases": false
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "rest_users",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "port": "3307",
+      "timestamps": false
+  }
+}
